@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "779515567706",
+    "project_id": "localityconnector-ff384",
+    "storage_bucket": "localityconnector-ff384.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779515567706:android:320bbf367c74b985fdc263",
+        "android_client_info": {
+          "package_name": "com.example.localityconnector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779515567706-v59l4p4scr2l66p562u94b979ndncri1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.localityconnector",
+            "certificate_hash": "94a37e7c60bdda671667b6d0d247ddca60c407f2"
+          }
+        },
+        {
+          "client_id": "779515567706-llelel6ordlf54bcjbdbv22dsgpvr0p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjsX1v35OGM4Fi9jdhe36bdhw3D3wptsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779515567706-1m52r9d3eve4t44il6abclbdjn5qdo3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

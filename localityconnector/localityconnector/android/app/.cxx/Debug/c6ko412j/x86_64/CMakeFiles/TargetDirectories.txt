@@ -1,0 +1,2 @@
+D:/PROJECTS/LOCALITY_CONNECTOR_FLUTTER/localityconnector/localityconnector/localityconnector/android/app/.cxx/Debug/c6ko412j/x86_64/CMakeFiles/edit_cache.dir
+D:/PROJECTS/LOCALITY_CONNECTOR_FLUTTER/localityconnector/localityconnector/localityconnector/android/app/.cxx/Debug/c6ko412j/x86_64/CMakeFiles/rebuild_cache.dir
